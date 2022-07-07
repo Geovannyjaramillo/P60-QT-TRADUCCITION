@@ -1,77 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="Calculadora_es_EC">
+<TS version="2.1" language="en_US">
 <context>
     <name>Principal</name>
     <message>
         <location filename="principal.ui" line="14"/>
         <source>Principal</source>
-        <translation type="unfinished"></translation>
+        <translation>Main</translation>
     </message>
     <message>
         <location filename="principal.ui" line="21"/>
         <source>NÚMERO 1:</source>
-        <translation type="unfinished"></translation>
+        <translation>Number 1:</translation>
     </message>
     <message>
         <location filename="principal.ui" line="31"/>
         <source>NÚMERO 2:</source>
-        <translation type="unfinished"></translation>
+        <translation>Number 2:</translation>
     </message>
     <message>
         <location filename="principal.ui" line="41"/>
         <source>OPERACIÓN</source>
-        <translation type="unfinished"></translation>
+        <translation>Operation</translation>
     </message>
     <message>
         <location filename="principal.ui" line="49"/>
         <source>Sumar</source>
-        <translation type="unfinished"></translation>
+        <translation>Add</translation>
     </message>
     <message>
         <location filename="principal.ui" line="54"/>
         <source>Restar</source>
-        <translation type="unfinished"></translation>
+        <translation>subtract</translation>
     </message>
     <message>
         <location filename="principal.ui" line="59"/>
         <source>Multiplicar</source>
-        <translation type="unfinished"></translation>
+        <translation>multiply</translation>
     </message>
     <message>
         <location filename="principal.ui" line="64"/>
         <source>Dividir</source>
-        <translation type="unfinished"></translation>
+        <translation>divide</translation>
     </message>
     <message>
         <location filename="principal.ui" line="85"/>
         <source>CALCULAR</source>
-        <translation type="unfinished"></translation>
+        <translation>calculate</translation>
     </message>
     <message>
         <location filename="principal.ui" line="102"/>
         <source>Archivo</source>
-        <translation type="unfinished"></translation>
+        <translation>File</translation>
     </message>
     <message>
         <location filename="principal.ui" line="112"/>
         <source>&amp;Calcular</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;calculate</translation>
     </message>
     <message>
         <location filename="principal.ui" line="115"/>
         <source>Ctrl+R</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+R</translation>
     </message>
     <message>
         <location filename="principal.ui" line="120"/>
         <source>&amp;Salir</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Exit</translation>
     </message>
     <message>
         <location filename="principal.ui" line="123"/>
         <source>Ctrl+Q</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Q</translation>
     </message>
 </context>
 </TS>
